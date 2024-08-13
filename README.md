@@ -24,8 +24,8 @@ public class MyProfile {
                          "🚀 I turn coffee into code and dreams into websites.\n" +
                          "💡 Exploring the endless universe of tech, one bug at a time!";
         
-        String techSkills = "💻 Java | Python | JavaScript\n" +
-                            "🌐 HTML | CSS | React | Node.js\n" +
+        String techSkills = "💻 Java | Golang | Lua | JavaScript\n" +
+                            "🌐 HTML | CSS | Vue | Node.js\n" +
                             "🛠 Git | Docker | Kubernetes\n" +
                             "🔍 SQL | NoSQL Databases";
         
